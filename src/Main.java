@@ -10,7 +10,7 @@ public class Main {
             String fullName = "Ivanov Ivan Ivanovich";
             System.out.println("Ф. И. О. сотрудника — " + fullName);
         }
-        //Задача 2
+        //Задача 3
         {
             String fullName = "Ivanov Ivan Ivanovich";
             System.out.println("Ф. И. О. сотрудника — " + fullName.toUpperCase());
